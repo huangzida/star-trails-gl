@@ -9,7 +9,7 @@ export default defineConfig(({ mode }) => {
   const isPlayground = mode === 'playground'
 
   return {
-    base: './',
+    base: isPlayground ? '/star-trails-gl/' : './',
     root: isPlayground ? 'playground' : '.',
     plugins: [
       vue(),
