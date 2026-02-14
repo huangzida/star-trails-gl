@@ -17,7 +17,7 @@
 ## 安装
 
 ```bash
-pnpm add @bg-effects/star-trails-gl ogl vue
+pnpm add @bg-effects/star-trails-gl ogl
 ```
 
 ## 使用方法

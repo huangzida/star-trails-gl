@@ -17,7 +17,7 @@ English | [简体中文](./README.zh-CN.md)
 ## Installation
 
 ```bash
-pnpm add @bg-effects/star-trails-gl ogl vue
+pnpm add @bg-effects/star-trails-gl ogl
 ```
 
 ## Usage
