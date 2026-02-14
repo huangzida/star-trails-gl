@@ -119,7 +119,7 @@ export class StarTrailsGLEngine {
     this.resizeObserver?.disconnect()
     this.resizeObserver = null
     if (this.mesh) {
-      // @ts-ignore
+      // @ts-expect-error
       this.mesh.geometry?.dispose?.()
       this.mesh = null
     }
@@ -271,7 +271,7 @@ export class StarTrailsGLEngine {
       }
     }
 
-    // @ts-ignore
+    // @ts-expect-error
     this.mesh?.geometry?.dispose?.()
 
     const geometry = new Geometry(this.gl, {
