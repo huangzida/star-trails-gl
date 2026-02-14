@@ -1,0 +1,40 @@
+{
+  "tabs": {
+    "render": "渲染",
+    "geometry": "几何",
+    "color": "颜色",
+    "stars": "星点",
+    "center": "中心"
+  },
+  "config": {
+    "render_mode": "渲染模式",
+    "draw_mode": "绘制模式",
+    "color_mode": "颜色模式",
+    "color_preset": "颜色预设",
+    "speed": "速度",
+    "star_count": "星点数量",
+    "length": "径向长度",
+    "thickness": "粗细",
+    "scale": "缩放",
+    "taper": "锥度",
+    "tilt": "倾角",
+    "twinkle": "闪烁",
+    "brightness": "亮度",
+    "center_x": "中心 X",
+    "center_y": "中心 Y",
+    "star_color": "星点颜色",
+    "color1": "颜色 1",
+    "color2": "颜色 2"
+  },
+  "options": {
+    "concentric": "同心",
+    "radial": "径向",
+    "ribbon": "丝带",
+    "lines": "线段",
+    "single": "单色",
+    "multi": "多色",
+    "classic": "经典",
+    "realistic": "真实",
+    "dual": "双色"
+  }
+}

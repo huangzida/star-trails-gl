@@ -1,0 +1,10 @@
+{
+  "extends": "@bg-effects/configs/typescript/base",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"]
+    }
+  },
+  "include": ["src", "playground"]
+}

@@ -1,0 +1,40 @@
+{
+  "tabs": {
+    "render": "Render",
+    "geometry": "Geometry",
+    "color": "Color",
+    "stars": "Stars",
+    "center": "Center"
+  },
+  "config": {
+    "render_mode": "Render Mode",
+    "draw_mode": "Draw Mode",
+    "color_mode": "Color Mode",
+    "color_preset": "Color Preset",
+    "speed": "Speed",
+    "star_count": "Star Count",
+    "length": "Radial Length",
+    "thickness": "Thickness",
+    "scale": "Scale",
+    "taper": "Taper",
+    "tilt": "Tilt",
+    "twinkle": "Twinkle",
+    "brightness": "Brightness",
+    "center_x": "Center X",
+    "center_y": "Center Y",
+    "star_color": "Star Color",
+    "color1": "Color 1",
+    "color2": "Color 2"
+  },
+  "options": {
+    "concentric": "Concentric",
+    "radial": "Radial",
+    "ribbon": "Ribbon",
+    "lines": "Lines",
+    "single": "Single",
+    "multi": "Multi",
+    "classic": "Classic",
+    "realistic": "Realistic",
+    "dual": "Dual"
+  }
+}
